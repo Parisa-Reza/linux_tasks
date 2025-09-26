@@ -15,7 +15,7 @@
  ## Script :
 
    ```bash
-   #!/bin/bash  #defines the absolute paths of bash
+   #!/bin/bash  #defines the absolute paths of bash .
    
    log_file="app.log" # reads the app.log file
 
