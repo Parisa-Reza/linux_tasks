@@ -1,7 +1,8 @@
-DevOps & Linux Tasks
+#DevOps & Linux Tasks
 Hands-on tasks assigned by Bongodev for practicing log filtering, file permissions, and bash scripting.
 
- Tasks Included
+##Tasks Included
+
 1. Log File Filtering
 Create sample log files with different levels (INFO, DEBUG, ERROR)
 
@@ -22,7 +23,7 @@ Interactive script that reads email and password
 Displays user input with confirmation message
 
 
-📋 Requirements
+## Requirements
 
 Linux environment
 
