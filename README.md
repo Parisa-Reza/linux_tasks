@@ -19,6 +19,6 @@ Hands-on tasks assigned by Bongodev for practicing log filtering, file permissio
 - Display user credentials
 
 ## Requirements
-- Linux/macOS environment
+- Linux environment
 - Bash shell
 - Basic terminal knowledge
