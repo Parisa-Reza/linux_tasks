@@ -1,0 +1,18 @@
+source : https://github.com/logpai/loghub/blob/master/Zookeeper/Zookeeper_2k.log
+
+2015-07-29 19:18:56,377 - WARN  [LearnerHandler-/10.10.34.11:52703:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52703 ********
+2015-07-29 19:18:56,457 - WARN  [LearnerHandler-/10.10.34.12:59406:LearnerHandler@575] - ******* GOODBYE /10.10.34.12:59406 ********
+2015-07-29 19:20:16,690 - ERROR [LearnerHandler-/10.10.34.12:59455:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:16,794 - WARN  [LearnerHandler-/10.10.34.13:57580:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57580 ********
+2015-07-29 19:20:36,704 - ERROR [LearnerHandler-/10.10.34.12:59480:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:46,814 - ERROR [LearnerHandler-/10.10.34.13:57617:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:56,605 - ERROR [LearnerHandler-/10.10.34.11:52814:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:56,608 - WARN  [LearnerHandler-/10.10.34.11:52818:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52818 ********
+2015-07-29 19:21:16,619 - WARN  [LearnerHandler-/10.10.34.11:52844:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52844 ********
+2015-07-29 19:21:16,835 - WARN  [LearnerHandler-/10.10.34.13:57653:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57653 ********
+2015-07-29 19:21:26,625 - ERROR [LearnerHandler-/10.10.34.11:52855:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:21:31,738 - WARN  [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@765] - Interrupting SendWorker
+2015-07-29 19:21:31,836 - INFO  [/10.10.34.12:3888:QuorumCnxManager$Listener@493] - Received connection request /10.10.34.12:54788
+2015-07-29 19:21:35,084 - WARN  [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@762] - Connection broken for id 188978561024, my id = 2, error = 
+2015-07-29 19:21:35,284 - INFO  [/10.10.34.12:3888:QuorumCnxManager$Listener@493] - Received connection request /10.10.34.13:42624
+2015-07-29 19:21:35,292 - WARN  [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@765] - Interrupting SendWorker
