@@ -1,34 +1,24 @@
 # DevOps & Linux Tasks
+
 Hands-on tasks assigned by Bongodev for practicing log filtering, file permissions, and bash scripting.
 
-## Tasks Included
+##  Tasks Overview
 
-1. Log File Filtering
-Create sample log files with different levels (INFO, DEBUG, ERROR)
+### Task 1: Log Analysis
+- Create `app.log` with 10+ mixed log entries
+- Write `find_errors.sh` to filter ERROR lines
+- Show filtered output
 
-Write bash script to filter and display ERROR lines
+### Task 2: File Permissions  
+- Create `project/notes.txt` directory structure
+- Modify permissions and ownership
+- Verify changes with `ls -l`
 
-Script: find_errors.sh
-
-2. File Permissions & Ownership
-Create directories and files
-
-Modify permissions (chmod) and ownership (chown)
-
-Practice Linux file security basics
-
-3. Bash User Input Script
-Interactive script that reads email and password
-
-Displays user input with confirmation message
-
+### Task 3: Bash Scripting
+- Interactive script for email/password input
+- Display user credentials
 
 ## Requirements
-
-Linux environment
-
-Bash shell
-
-Basic terminal knowledge
-
-
+- Linux/macOS environment
+- Bash shell
+- Basic terminal knowledge
